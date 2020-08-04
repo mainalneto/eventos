@@ -1,0 +1,28 @@
+.btn-detalhes{
+
+    background-color: #59efbf ;
+    color: #fff;
+}
+
+.btn-detalhes:hover{
+
+    background-color: #d4fe90;
+    color: #fff;
+
+}
+
+.card-text{
+
+max-height: 100px;
+overflow: hidden;
+
+}
+
+.img-cartao{
+
+    max-height: 200px;
+    min-width: 100%;
+
+}
+
+

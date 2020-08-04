@@ -1,0 +1,32 @@
+.form-login{
+
+    max-width: 650px;
+    
+
+}
+
+.btn-cadastro{
+
+    background-color: #59efbf ;
+    color: #fff;
+}
+
+.btn-cadastro:hover {
+
+    background-color: #d4fe90;
+    color: #fff;
+}
+
+.h3{
+
+    color: #516778;
+}
+
+.user-novo{
+
+    width: 100%;
+    padding: 1%;
+    margin: auto;
+    background-color: #c7cacd;
+    height: 100vh;
+}

@@ -1,0 +1,39 @@
+.login-content{
+width: 100%;
+padding: 15%;
+margin: auto;
+background-color: #c7cacd;
+height: 100vh;
+
+}
+
+.btn-login{
+
+    background-color: #fff;
+
+}
+
+.btn-login:hover{
+
+    background-color: #d4fe90;
+
+}
+
+.opcoes-login a{
+
+    text-decoration: none;
+    color: #516778;
+    transition: .3s ease-in;
+}
+
+.opcoes-login a:hover{
+
+    color: #59efbf;
+
+
+}
+
+.nome-logo{
+
+    color: #516778;
+}
